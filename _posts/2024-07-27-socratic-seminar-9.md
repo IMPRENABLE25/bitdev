@@ -1,34 +1,29 @@
 ---
 layout: post
 type: socratic
-title: "Socratic Seminar #9"
+title: "Séminaire socratique #9"
 ---
 
-## Location
+## Lieu
+La rencontre aura lieu chez **Nairobi Garage**:
 
-The event will be hosted at **Nairobi Garage**:
+Pinetree Plaza | Kaburu Drive, Nairobi | [Carte](https://maps.app.goo.gl/Vi8kuEQZVwTUfNBHA)
 
-Pinetree Plaza | Kaburu Drive, Nairobi | [Map](https://maps.app.goo.gl/Vi8kuEQZVwTUfNBHA)
+## Annonces
+Rejoignez-nous pour notre [séminaire socratique Bitcoin](/about)! Un grand merci à notre sponsor [Btrust](http://btrust.tech/) pour le repas et les rafraîchissements.
 
-## Announcements
+## Rappels
+- Nous demandons de ne prendre ni photos ni vidéos pendant la rencontre
+- [Règle de Chatham House](https://www.chathamhouse.org/about-us/chatham-house-rule)
+- Merci de laisser la salle aussi propre que vous l’avez trouvée
+- Proposez des sujets pour le prochain séminaire socratique ! [Où trouver des sujets ?](/about/find-topics)
 
-Join us on our Ninth Bitcoin [Socratic Seminar](/about)! A special thank you to our
-sponsor [Btrust](http://btrust.tech/) for food and refreshments.
-
-## Reminders
-
-- We prefer no photos and no videos during the event
-- [Chatham House Rule](https://www.chathamhouse.org/about-us/chatham-house-rule)
-- Leave the meeting space as clean as you found it
-- Suggest topics for the next Socratic Seminar! [Where to find topics?](/about/find-topics)
-
-# Topics
-
+# Sujets
 ### Bitcoin
 
 ---
 
-MC: Brandon
+Animation : Brandon
 
 - [10 (now fixed) vulnerabilities affecting Bitcoin Core versions before 0.21.0](https://bitcoinops.org/en/newsletters/2024/07/05/)
   - [Brink Devs on Vulnerability disclosures](https://brink.dev/podcast/4-bitcoin-core-pre-21-disclosures/)
@@ -43,11 +38,11 @@ MC: Brandon
   - [BlueWallet adds silent payment send support](https://github.com/BlueWallet/BlueWallet/releases/tag/v6.6.7)
   - [First silent payment tx signed by a hardware waller : BitBox02](https://x.com/BitBoxSwiss/status/1816103516059971874)
 
-### Mining
+### Minage
 
 ---
 
-MC: Simon
+Animation : Simon
 
 - [Bitcoin Core #30200 introduces a new Mining interface](https://github.com/bitcoin/bitcoin/pull/30200)
 - [BMM 100 Mini Miner announced](https://braiins.com/hardware/bmm-100-mini-miner)
@@ -57,11 +52,11 @@ MC: Simon
 - [A Bitaxe Has Mined Block **853742**!](https://www.nobsbitcoin.com/a-bitaxe-has-found-a-block/)
   - [Block 853742](https://mempool.space/block/00000000000000000000f0235e50becc0b3bc91231e236f67736d64b1813704b)
 
-### Lightning Network
+### Réseau Lightning
 
 ---
 
-MC: Jodom
+Animation : Jodom
 
 - [BOLT12](https://bolt12.org/) is shipping!
   - [Phoenix supports BIP-353 addresses](https://x.com/PhoenixWallet/status/1811442125801705638?t=mkVXcPKJoYQqPe-wlEgjow&s=19)
@@ -72,11 +67,10 @@ MC: Jodom
 - [How to Use Boltz Client's Autoswap to Automate Your Lightning Liquidity Management](https://blog.boltz.exchange/p/guide-how-to-use-boltz-clients-autoswap)
 - [Polar v3.0.0 released](https://x.com/lightningpolar/status/1815785643332563435)
 
-### Ecash
-
+### eCash
 ---
 
-MC: Jodom
+Animation : Jodom
 
 - [Fedimint: reduce confirmation target from 10 blocks to 1 when withdrawing funds](https://github.com/fedimint/fedimint/issues/5498)
 - [Fedimint: client RPC](https://github.com/fedimint/fedimint/pull/5475)
@@ -84,11 +78,10 @@ MC: Jodom
 - [Cashu: binary-encoded tokens](https://x.com/CashuBTC/status/1811355401411084307?t=-O8Aw4IeoEuu48p4ndRXAw&s=19)
 - [Cashu: v1.0.0 typescript client released](https://github.com/cashubtc/cashu-ts/releases/tag/v1.0.0)
 
-### Other Bitcoin Tech
-
+### Autres technologies Bitcoin
 ---
 
-MC: You / Random
+Animation : You / Random
 
 - [Taproot Assets on Lightning](https://x.com/lightning/status/1815768786752164213)
 - [Hacker News reaction to an L402 post](https://news.ycombinator.com/item?id=40971766)
@@ -97,11 +90,10 @@ MC: You / Random
 - [Statechains are coming: Statechainjs by SuperTestnet](https://x.com/super_testnet/status/1815792914812862609)
   - [watch this guy (wizard) work](https://supertestnet.org)
 
-### Extras
-
+### Compléments
 ---
 
-MC: Isaack
+Animation : Isaack
 
 - [DLCs implemented on Cashu](https://x.com/callebtc/status/1811678845864411588?t=whdv1O-pMniUONOPqsiDVw&s=19)
 - [Security: regreSSHion vulnerability and how it affects funds in your bitcoin/lightning node](https://ubuntu.com/security/CVE-2024-6387)
@@ -110,11 +102,10 @@ MC: Isaack
   - [X thread](https://x.com/jyn_urso/status/1815903673609834857)
 - [Proton launches a Bitcoin, Lightning wallet](https://proton.me/blog/proton-wallet-launch)
 
-#### Upcoming Events
-
+#### Événements à venir
 ---
 
-MC: Sharon
+Animation : Sharon
 
 - [Bitcoin 2024, Nashville](https://b.tc/conference/2024): July 25th - 27th, 2024
 - [BITSACCO pilot announcement](https://bitsacco.com) : August 3rd, 2024

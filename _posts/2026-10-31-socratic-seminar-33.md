@@ -1,34 +1,30 @@
 ---
 layout: post
 type: socratic
-title: "Socratic Seminar #33"
+title: "Séminaire socratique #33"
 ---
 
-## Location
+## Lieu
+La rencontre aura lieu chez **NodeNBO**:
 
-The event will be hosted at **NodeNBO**:
+Gigiri, Nairobi | [nodenbo.com](https://nodenbo.com/) | [Carte](https://maps.app.goo.gl/rpxjHZBsvrjnaF8S8)
 
-Gigiri, Nairobi | [nodenbo.com](https://nodenbo.com/) | [Map](https://maps.app.goo.gl/rpxjHZBsvrjnaF8S8)
+## Annonces
+Rejoignez-nous pour notre [séminaire socratique Bitcoin](https://bitdevsnbo.org/about) `#33`.
+Un grand merci à notre sponsor [Btrust](http://btrust.tech/) pour le repas et les rafraîchissements.
 
-## Announcements
+## Rappels
+* Nous demandons de ne prendre ni photos ni vidéos pendant la rencontre
+* [Règle de Chatham House](https://www.chathamhouse.org/about-us/chatham-house-rule)
+* Merci de laisser la salle aussi propre que vous l’avez trouvée
+* Proposez des sujets pour le prochain séminaire socratique ! [Où trouver des sujets ?](https://bitdevsnbo.org/about/find-topics)
 
-Join us on our Bitcoin [Socratic Seminar](https://bitdevsnbo.org/about) `#33`.
-A special thank you to our sponsor [Btrust](http://btrust.tech/) for food and refreshments.
-
-## Reminders
-
-* We prefer no photos and no videos during the event
-* [Chatham House Rule](https://www.chathamhouse.org/about-us/chatham-house-rule)
-* Leave the meeting space as clean as you found it
-* Suggest topics for the next Socratic Seminar! [Where to find topics?](https://bitdevsnbo.org/about/find-topics)
-
-## Topics
-
+## Sujets
 ### Bitcoin
 
 ---
 
-MC: Brandon
+Animation : Brandon
 
 * [Bitcoin Core 32.0](https://github.com/bitcoin/bitcoin/releases/tag/v32.0)
   + [Bitcoin Core 32.1](https://github.com/bitcoin/bitcoin/releases/tag/v32.1)
@@ -38,7 +34,7 @@ MC: Brandon
 * [BIP Draft: co-signer spending policies](https://delvingbitcoin.org/t/bip-draft-co-signer-spending-policies/2955)
 * [Lichen: trust-minimized exits from a single-issuer layer 2](https://groups.google.com/g/bitcoindev/c/yZEZ5P1lj5E)
 
-MC: Frank
+Animation : Frank
 
 * [Best critiques of BIP300/drivechains?](https://delvingbitcoin.org/t/best-critiques-of-bip300-drivechains/2969)
 * [Cost-bounded transaction filtering language](https://delvingbitcoin.org/t/cost-bounded-transaction-filtering-language/2966)
@@ -46,24 +42,24 @@ MC: Frank
   + [rbitcoin 0.8.0](https://github.com/reardencode/rbitcoin/releases/tag/v0.8.0)
 
 
-### Mining
+### Minage
 
 ---
 
-MC: Sy ⚡
+Animation : Sy ⚡
 
 * [Landfall: Lightning payouts for OCEAN miners](https://github.com/vincenzopalazzo/landfall)
 
-MC: Nkatha
+Animation : Nkatha
 
 * [Bitcoin mining difficulty rises 5.92% as hashrate hits seven-month high](https://www.kucoin.com/news/flash/bitcoin-mining-difficulty-rises-5-92-as-hashrate-hits-seven-month-high)
 * [Notice on the closure of Binance Pool services](https://www.binance.com/en/support/announcement/detail/2b45800173fd44f48b4517f25f941434)
 
-### Lightning Network
+### Réseau Lightning
 
 ---
 
-MC: Isaack
+Animation : Isaack
 
 * [Eclair 0.14.5 security release](https://github.com/ACINQ/eclair/releases/tag/v0.14.5)
   + [Eclair 0.14.4](https://github.com/ACINQ/eclair/releases/tag/v0.14.4)
@@ -75,10 +71,9 @@ MC: Isaack
 * [BOLTs #1357: stricter BOLT11 invoice parsing](https://github.com/lightning/bolts/pull/1357)
 
 ### eCash
-
 ---
 
-MC: Martin
+Animation : Martin
 
 * [Federated Cashu, unveiled at bitcoin++](https://bitcoinmagazine.com/featured/ecash-ecosystem-rises-to-challenge-in-the-defense-of-decentralized-custody) — any 4 of 5 operators keep the federation going, using blind BLS signatures
 * [Nutroot: align with the simplified core spec (#2738)](https://github.com/cashubtc/cdk/pull/2738)
@@ -92,6 +87,5 @@ MC: Martin
 
 ---
 
-### Submit suggestions for next meeting!
-
-Issues on Github: https://github.com/BitDevsNBO/bitdevsnbo.org/issues
+### Proposez des sujets pour la prochaine rencontre !
+Sujets sur GitHub : https://github.com/BitDevsNBO/bitdevsnbo.org/issues

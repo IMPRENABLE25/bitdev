@@ -1,77 +1,71 @@
 ---
 layout: post
 type: socratic
-title: "Socratic Seminar #22"
+title: "Séminaire socratique #22"
 ---
 
-## Location
+## Lieu
+La rencontre aura lieu chez **Jenga Leo**:
 
-The event will be hosted at **Jenga Leo**:
+`10e étage (salle Kilimanjaro)` WESTPARK TOWERS | Mpesi Ln, Nairobi | [Carte](https://maps.app.goo.gl/jA86RuyuBKcE4eA47)
 
-`T Floor (Kilimanjaro room)` WESTPARK TOWERS | Mpesi Ln, Nairobi | [Map](https://maps.app.goo.gl/jA86RuyuBKcE4eA47)
+## Annonces
+Rejoignez-nous pour notre [séminaire socratique Bitcoin](/about) `#22`. Un grand merci à notre sponsor [Btrust](http://btrust.tech/) pour le repas et les rafraîchissements.
 
-## Announcements
+## Rappels
+- Nous demandons de ne prendre ni photos ni vidéos pendant la rencontre
+- [Règle de Chatham House](https://www.chathamhouse.org/about-us/chatham-house-rule)
+- Merci de laisser la salle aussi propre que vous l’avez trouvée
+- Proposez des sujets pour le prochain séminaire socratique ! [Où trouver des sujets ?](/about/find-topics)
 
-Join us on our Bitcoin [Socratic Seminar](/about) `#22`. A special thank you to our
-sponsor [Btrust](http://btrust.tech/) for food and refreshments.
-
-## Reminders
-
-- We prefer no photos and no videos during the event
-- [Chatham House Rule](https://www.chathamhouse.org/about-us/chatham-house-rule)
-- Leave the meeting space as clean as you found it
-- Suggest topics for the next Socratic Seminar! [Where to find topics?](/about/find-topics)
-
-## Topics
-
+## Sujets
 ## Bitcoin
 
 ---
 
-MC: Brandon
+Animation : Brandon
 
 - [How to Compile and Test Bitcoin Core v30.0rc1 with CMake](https://gist.github.com/BrandonOdiwuor/6402985be803e161074c25674714166c)
 - [Testing Guide: Bitcoin Core 30.0 Release Candidate](https://github.com/bitcoin-core/bitcoin-devwiki/wiki/30.0-Release-Candidate-Testing-Guide)
 
-MC: Winnie
+Animation : Winnie
 
 - [Getting Started with Warnet](https://github.com/bitcoin-dev-project/warnet-demo-project)
 
-MC: Fidel
+Animation : Fidel
 
 - [SegWit](https://learnmeabitcoin.com/beginners/guide/segwit/)
 
-## Design
+## Conception
+---
+
+Animation : Mark
+
+### Minage
 
 ---
 
-MC: Mark
-
-### Mining
-
----
-
-MC: Simon
+Animation : Simon
 
 - [Block 913272 found by a small miner](https://x.com/ocean_mining/status/1964419364326953182)
 - [Solo miner hits a block](https://mempool.space/block/0000000000000000000180aab2a364d0baeddacf4048d0600065390a81651829)
 
-### Lightning Network
+### Réseau Lightning
 
 ---
 
-MC: Isaack
+Animation : Isaack
 
 - [LSP-funded redundant overpayments](https://delvingbitcoin.org/t/multichannel-and-multiptlc-towards-a-global-high-availability-consistent-partition-tolerant-database-for-bitcoin-payments/1983)
 - [Alternative Submarine Swap Proof of Concept](https://github.com/supertestnet/papa-swap)
 - [x402 MCP](https://vercel.com/blog/introducing-x402-mcp-open-protocol-payments-for-mcp-tools)
 - [Lexe wallet](https://open.substack.com/pub/spiralbtc/p/lexe-uses-ldk-to-run-self-custodial?utm_source=share&utm_medium=android&r=1icuw7)
 
-### Ecash & Other Bitcoin Tech
+### eCash et autres technologies Bitcoin
 
 ---
 
-MC: okjodom
+Animation : okjodom
 
 - [MINMO](https://github.com/minmoto/pleb)
 - [FOSS Fedimint Wallet](https://x.com/fedimint/status/1968011010570387696?t=BXVX5DzOOC49CONxc6rhEA&s=19)
@@ -79,11 +73,10 @@ MC: okjodom
 - [Supply Chain Attack](https://x.com/P3b7_/status/1965094840959410230)
 - [Bitcoin Knobs](https://x.com/miketwenty1/status/1964754852158079251?t=m4CQ7x0Yl-XNLzzf7nYqww&s=19)
 
-#### Upcoming Events & Announcements
-
+#### Événements et annonces à venir
 ---
 
-MC: Sharon
+Animation : Sharon
 
 - [Mastering Bitcoin](https://x.com/dadadevs/status/1969005045329924492?s=46)
 - [Bitcoin Core Principles](https://x.com/btrust_builders/status/1963893611134640489?t=KpyN0EWlBkV68VIGygxAsA&s=19)
@@ -92,6 +85,5 @@ MC: Sharon
 
 ---
 
-### Submit suggestions for next meeting!
-
-Issues on Github: https://github.com/BitDevsNBO/bitdevsnbo.org/issues
+### Proposez des sujets pour la prochaine rencontre !
+Sujets sur GitHub : https://github.com/BitDevsNBO/bitdevsnbo.org/issues

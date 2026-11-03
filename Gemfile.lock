@@ -82,6 +82,9 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  ffi (= 1.17.1)
+  google-protobuf (= 4.29.3)
+  jekyll
   jekyll-feed
   jekyll-paginate
   jekyll-seo-tag

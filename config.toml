@@ -9,8 +9,8 @@ compile_sass = true
 build_search_index = false
 
 
-title = "BitDevsNBO"
-description = "BitDevsNBO is a community in Nairobi, Kenya, for those interested in discussing and participating in the research and development of Bitcoin and related protocols and software."
+title = "BitDevs Lomé"
+description = "BitDevs Lomé est une communauté dédiée aux passionnés de Bitcoin, aux développeurs et aux chercheurs qui souhaitent échanger, approfondir leurs connaissances et contribuer à la recherche et au développement de Bitcoin ainsi que des protocoles et technologies qui gravitent autour de son écosystème."
 
 [markdown]
 # Whether to do syntax highlighting
@@ -25,6 +25,6 @@ feed_filename = "rss.xml"
 # Put all your custom variables here
 
 github = "https://github.com/BitDevsNBO/bitdevsnbo"
-luma    = "https://lu.ma/bitdevsnbo"
-discord = "https://discord.gg/RQmYSGJeNZ"
-twitter = "https://twitter.com/BitDevsNBO"
+luma    = "https://luma.com/user/usr-Zy9tbf79yMCEHfs"
+community = "https://chat.whatsapp.com/CVnPZz60raQ5BhLysKm9NA?s=cl&p=a&mlu=4&ilr=4&iam=2"
+twitter = "https://x.com/Togo_Bitcoin"

@@ -1,56 +1,49 @@
 ---
 layout: post
 type: socratic
-title: "Socratic Seminar #23"
+title: "Séminaire socratique #23"
 ---
 
-## Location
+## Lieu
+La rencontre aura lieu chez **Jenga Leo**:
 
-The event will be hosted at **Jenga Leo**:
+`10e étage (salle Kilimanjaro)` WESTPARK TOWERS | Mpesi Ln, Nairobi | [Carte](https://maps.app.goo.gl/jA86RuyuBKcE4eA47)
 
-`T Floor (Kilimanjaro room)` WESTPARK TOWERS | Mpesi Ln, Nairobi | [Map](https://maps.app.goo.gl/jA86RuyuBKcE4eA47)
+## Annonces
+Rejoignez-nous pour notre [séminaire socratique Bitcoin](/about) `#23`. Un grand merci à notre sponsor [Btrust](http://btrust.tech/) pour le repas et les rafraîchissements.
 
-## Announcements
+## Rappels
+- Nous demandons de ne prendre ni photos ni vidéos pendant la rencontre
+- [Règle de Chatham House](https://www.chathamhouse.org/about-us/chatham-house-rule)
+- Merci de laisser la salle aussi propre que vous l’avez trouvée
+- Proposez des sujets pour le prochain séminaire socratique ! [Où trouver des sujets ?](/about/find-topics)
 
-Join us on our Bitcoin [Socratic Seminar](/about) `#23`. A special thank you to our
-sponsor [Btrust](http://btrust.tech/) for food and refreshments.
-
-## Reminders
-
-- We prefer no photos and no videos during the event
-- [Chatham House Rule](https://www.chathamhouse.org/about-us/chatham-house-rule)
-- Leave the meeting space as clean as you found it
-- Suggest topics for the next Socratic Seminar! [Where to find topics?](/about/find-topics)
-
-## Topics
-
+## Sujets
 ## Bitcoin
 
 ---
 
-MC: Brandon
+Animation : Brandon
 
 - [How to Compile and Test Bitcoin Core v30.0](https://github.com/bitcoin/bitcoin/)
 
-### Mining
+### Minage
 
 ---
 
-MC: Simon
+Animation : Simon
 
 - [How to Connect Stratumv2 with Bitaxe](https://stratumprotocol.org/)
 
-#### Upcoming Events & Announcements
-
+#### Événements et annonces à venir
 ---
 
-MC: Sharon
+Animation : Sharon
 
 - [Btrust Developer Day](https://devday.btrust.tech/)
 - [Africa Bitcoin Conference](https://afrobitcoin.org/)
 
 ---
 
-### Submit suggestions for next meeting!
-
-Issues on Github: https://github.com/BitDevsNBO/bitdevsnbo.org/issues
+### Proposez des sujets pour la prochaine rencontre !
+Sujets sur GitHub : https://github.com/BitDevsNBO/bitdevsnbo.org/issues

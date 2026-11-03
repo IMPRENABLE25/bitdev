@@ -1,34 +1,29 @@
 ---
 layout: post
 type: socratic
-title: "Socratic Seminar #11"
+title: "Séminaire socratique #11"
 ---
 
-## Location
+## Lieu
+La rencontre aura lieu chez **Jenga Leo**:
 
-The event will be hosted at **Jenga Leo**:
+12e étage WESTPARK TOWERS | Mpesi Ln, Nairobi | [Carte](https://maps.app.goo.gl/jA86RuyuBKcE4eA47)
 
-12th Floor WESTPARK TOWERS | Mpesi Ln, Nairobi | [Map](https://maps.app.goo.gl/jA86RuyuBKcE4eA47)
+## Annonces
+Rejoignez-nous pour notre [séminaire socratique Bitcoin](/about)! Un grand merci à notre sponsor [Btrust](http://btrust.tech/) pour le repas et les rafraîchissements.
 
-## Announcements
+## Rappels
+- Nous demandons de ne prendre ni photos ni vidéos pendant la rencontre
+- [Règle de Chatham House](https://www.chathamhouse.org/about-us/chatham-house-rule)
+- Merci de laisser la salle aussi propre que vous l’avez trouvée
+- Proposez des sujets pour le prochain séminaire socratique ! [Où trouver des sujets ?](/about/find-topics)
 
-Join us on our Eleventh Bitcoin [Socratic Seminar](/about)! A special thank you to our
-sponsor [Btrust](http://btrust.tech/) for food and refreshments.
-
-## Reminders
-
-- We prefer no photos and no videos during the event
-- [Chatham House Rule](https://www.chathamhouse.org/about-us/chatham-house-rule)
-- Leave the meeting space as clean as you found it
-- Suggest topics for the next Socratic Seminar! [Where to find topics?](/about/find-topics)
-
-# Topics
-
+# Sujets
 ### Bitcoin
 
 ---
 
-MC: Brandon
+Animation : Brandon
 
 - [New high severity security advisory have been added to Bitcoin Core](https://x.com/bitcoincoreorg/status/1836683179068895452)
   - [Disclosure of memory DoS due to headers spam](https://bitcoincore.org/en/2024/09/18/disclose-headers-oom/)
@@ -38,20 +33,20 @@ MC: Brandon
 - [Securely Creating Bitcoin Seed Phrases](https://blog.lopp.net/how-to-securely-create-a-bitcoin-seed-phrase/)
 - [DNS seeding for non-IP addresses](https://delvingbitcoin.org/t/hardcoded-seeds-dns-seeds-and-darknet-nodes/1123)
   - [Anonymity networks](https://bitcoinops.org/en/topics/anonymity-networks/)
-### Mining
+### Minage
 
 ---
 
-MC: TBD
+Animation : TBD
 
 - [Block Template Similarities between Mining Pools](https://b10c.me/observations/12-template-similarity/)
 - [Stratum v2 extension for fee revenue sharing](https://delvingbitcoin.org/t/pplns-with-job-declaration/1099)
 
-### Lightning Network
+### Réseau Lightning
 
 ---
 
-MC: Isaack
+Animation : Isaack
 
 - [LND PR - discovery: implement banning for invalid channel anns #9009](https://github.com/lightningnetwork/lnd/pull/9009)
 - [Lightning offline payment](https://delvingbitcoin.org/t/privately-sending-payments-while-offline-with-bolt12/1134)
@@ -60,21 +55,19 @@ MC: Isaack
 - [Kraken Germany Removes Lightning Network Support](https://www.therage.co/kraken-germany-lightning-support/)
 - [Fixing Lightning Force Closures](https://mblack.io/posts/fixing-lightning-force-closures/)
 
-### Other Bitcoin Tech
-
+### Autres technologies Bitcoin
 ---
 
-MC: Brandon
+Animation : Brandon
 
 - [Proving UTXO set inclusion in zero-knowledge](https://delvingbitcoin.org/t/proving-utxo-set-inclusion-in-zero-knowledge/1142/1)
   - [utxozkp](https://github.com/halseth/utxozkp)
 - [OP_CAT research fund](https://mailing-list.bitcoindevs.xyz/bitcoindev/04b61777-7f9a-4714-b3f2-422f99e54f87n@googlegroups.com/)
 
-#### Upcoming Events
-
+#### Événements à venir
 ---
 
-MC: TBD
+Animation : TBD
 
 - [Africa Bitcoin Conference](https://afrobitcoin.org) : Dec 9th - 11th, 2024
   - [ABC Fellowship](https://afrobitcoin.org/afro-bitcoin-fellowship/), [X thread](https://x.com/AfroBitcoinOrg/status/1816223783574741450)

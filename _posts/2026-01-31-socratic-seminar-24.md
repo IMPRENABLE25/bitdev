@@ -1,31 +1,26 @@
 ---
 layout: post
 type: socratic
-title: "Socratic Seminar #24"
+title: "Séminaire socratique #24"
 ---
 
-## Location
+## Lieu
+La rencontre aura lieu chez **Jenga Leo**:
 
-The event will be hosted at **Jenga Leo**:
+`10e étage (salle Kilimanjaro)` WESTPARK TOWERS | Mpesi Ln, Nairobi | [Carte](https://maps.app.goo.gl/jA86RuyuBKcE4eA47)
 
-`T Floor (Kilimanjaro room)` WESTPARK TOWERS | Mpesi Ln, Nairobi | [Map](https://maps.app.goo.gl/jA86RuyuBKcE4eA47)
+## Annonces
+Rejoignez-nous pour notre [séminaire socratique Bitcoin](/about) `#24`.
 
-## Announcements
+Cette séance spéciale **Introduction à Bitcoin** présente l’écosystème Bitcoin aux débutants et permet aux autres de revoir les notions essentielles. Un grand merci à notre sponsor [Btrust](http://btrust.tech/) pour le repas et les rafraîchissements.
 
-Join us on our Bitcoin [Socratic Seminar](/about) `#24`.
+## Rappels
+- Nous demandons de ne prendre ni photos ni vidéos pendant la rencontre
+- [Règle de Chatham House](https://www.chathamhouse.org/about-us/chatham-house-rule)
+- Merci de laisser la salle aussi propre que vous l’avez trouvée
 
-This is a special **Bitcoin 101** session — an introduction to the Bitcoin stack for newcomers and a refresher for everyone else. A special thank you to our sponsor [Btrust](http://btrust.tech/) for food and refreshments.
-
-## Reminders
-
-- We prefer no photos and no videos during the event
-- [Chatham House Rule](https://www.chathamhouse.org/about-us/chatham-house-rule)
-- Leave the meeting space as clean as you found it
-
-## Topics
-
-### Bitcoin Fundamentals
-
+## Sujets
+### Fondamentaux de Bitcoin
 ---
 
 - [But how does bitcoin actually work? (3Blue1Brown)](https://www.youtube.com/watch?v=bBC-nXj3Ng4)
@@ -43,7 +38,7 @@ This is a special **Bitcoin 101** session — an introduction to the Bitcoin sta
 - Why does Bitcoin need proof-of-work? What are the tradeoffs?
 - How do you explain Bitcoin to someone with zero technical background?
 
-### Lightning Network
+### Réseau Lightning
 
 ---
 
@@ -64,8 +59,7 @@ This is a special **Bitcoin 101** session — an introduction to the Bitcoin sta
 - What are the tradeoffs of using Lightning vs on-chain transactions?
 - Why do Lightning channels require both parties to be online? What happens if one party disappears?
 
-### Ecash: Fedimint & Cashu
-
+### eCash : Fedimint et Cashu
 ---
 
 - [What is Ecash? (Calle's Explainer)](https://cashu.space/)
@@ -86,8 +80,7 @@ This is a special **Bitcoin 101** session — an introduction to the Bitcoin sta
 - How might ecash help with Bitcoin adoption in communities with limited connectivity?
 - What's the difference between custodial Lightning (e.g., Wallet of Satoshi) and ecash custody?
 
-### Putting It All Together
-
+### Mise en pratique
 ---
 
 - [Bitcoin Layers Explained](https://river.com/learn/what-are-bitcoin-layers/)
@@ -101,13 +94,11 @@ This is a special **Bitcoin 101** session — an introduction to the Bitcoin sta
 - How do these layers work together to make Bitcoin usable for different purposes?
 - What excites you most about where Bitcoin development is headed?
 
-### What's next?
-
+### Et maintenant ?
 ---
 
 - [Btrust Builders Pathways](https://pathways.btrust.tech/)
 - [bitcoin++ open source edition](https://btcplusplus.dev/conf/nairobi)
 
-### Submit suggestions for next meeting
-
-Issues on Github: https://github.com/BitDevsNBO/bitdevsnbo.org/issues
+### Proposez des sujets pour la prochaine rencontre
+Sujets sur GitHub : https://github.com/BitDevsNBO/bitdevsnbo.org/issues

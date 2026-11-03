@@ -1,30 +1,22 @@
 ---
 layout: default
-title: Home
+title: Accueil
 ---
 
 <div class="Home">
   <p class="Home-about">
-    BitDevsNBO is a meetup devoted to the research and development of Bitcoin.
+    BitDevs Lomé est une communauté dédiée aux passionnés de Bitcoin, aux développeurs et aux chercheurs qui souhaitent échanger, approfondir leurs connaissances et contribuer à la recherche et au développement de Bitcoin ainsi que des protocoles et technologies qui gravitent autour de son écosystème.
   </p>
 
   <div class="Home-posts">
-    <h2 class="Home-posts-title">Upcoming and Recent Events</h2>
-    {% assign event_posts = 7 %}
-    {% assign counter = 0 %}
-    {% for post in site.posts %}
-      {% if post.type == "socratic" or post.type == "whitepaper"%}
-        <div class="Home-posts-post">
-          <span class="Home-posts-post-date">{{ post.date | date_to_string }}</span>
-          <span class="Home-posts-post-arrow">&raquo;</span>
-          <a class="Home-posts-post-title" href="{{ post.url }}.html">{{ post.title }}</a>
-        </div>
-        {% assign counter = counter | plus: 1 %}
-        {% if counter == event_posts %}
-          {% break %} {% comment %}exit the for loop{% endcomment %}
-        {% endif %}
-      {% endif %}
+    <h2 class="Home-posts-title">Événements à venir et récents</h2>
+    {% assign lome_events = site.posts | where: "lome_event", true %}
+    {% for post in lome_events %}
+      <div class="Home-posts-post">
+        <span class="Home-posts-post-date">{{ post.date_display }}</span>
+        <span class="Home-posts-post-arrow">&raquo;</span>
+        <a class="Home-posts-post-title" href="{{ post.url }}.html">{{ post.title }}</a>
+      </div>
     {% endfor %}
-    <p><a href="/events.html">See all events</a></p>
   </div>
 </div>

@@ -1,34 +1,29 @@
 ---
 layout: post
 type: socratic
-title: "Socratic Seminar #18"
+title: "Séminaire socratique #18"
 ---
 
-## Location
+## Lieu
+La rencontre aura lieu chez **Jenga Leo**:
 
-The event will be hosted at **Jenga Leo**:
+`10e étage (salle Kilimanjaro)` WESTPARK TOWERS | Mpesi Ln, Nairobi | [Carte](https://maps.app.goo.gl/jA86RuyuBKcE4eA47)
 
-`T Floor (Kilimanjaro room)` WESTPARK TOWERS | Mpesi Ln, Nairobi | [Map](https://maps.app.goo.gl/jA86RuyuBKcE4eA47)
+## Annonces
+Rejoignez-nous pour notre [séminaire socratique Bitcoin](/about)! Un grand merci à notre sponsor [Btrust](http://btrust.tech/) pour le repas et les rafraîchissements.
 
-## Announcements
+## Rappels
+- Nous demandons de ne prendre ni photos ni vidéos pendant la rencontre
+- [Règle de Chatham House](https://www.chathamhouse.org/about-us/chatham-house-rule)
+- Merci de laisser la salle aussi propre que vous l’avez trouvée
+- Proposez des sujets pour le prochain séminaire socratique ! [Où trouver des sujets ?](/about/find-topics)
 
-Join us on our Eigtheenth Bitcoin [Socratic Seminar](/about)! A special thank you to our
-sponsor [Btrust](http://btrust.tech/) for food and refreshments.
-
-## Reminders
-
-- We prefer no photos and no videos during the event
-- [Chatham House Rule](https://www.chathamhouse.org/about-us/chatham-house-rule)
-- Leave the meeting space as clean as you found it
-- Suggest topics for the next Socratic Seminar! [Where to find topics?](/about/find-topics)
-
-## Topics
-
+## Sujets
 ## Bitcoin
 
 ---
 
-MC: Brandon
+Animation : Brandon
 
 - [Chaincode Labs - Bitcoin and Quantum Computing Report](https://x.com/ChaincodeLabs/status/1927191285208617046)
   - [Bitcoin and Quantum Computing:Current Status and Future Directions](https://chaincode.com/bitcoin-post-quantum.pdf)
@@ -47,11 +42,11 @@ MC: Brandon
 - [Dust Expiry: Clean the UTXO set from spam](https://delvingbitcoin.org/t/dust-expiry-clean-the-utxo-set-from-spam/1707/3?u=robinlinus)
 - [UTXO Set Size](https://x.com/NicolasDorier/status/1919992184969035874?t=sTK1R7_KG0c3VksLFSjxsw&s=19)
 
-### Mining
+### Minage
 
 ---
 
-MC: Simon
+Animation : Simon
 
 - [Firmware-level Hashpower Hijack](https://x.com/GeoCoolingTx/status/1917691392370807159?t=NbqJqi5bZAYxGEOe-X3V2w&s=19)
 - [Current HashRate Distribution](https://x.com/0xB10C/status/1923362806482485487?t=XinW1XH_zvZRM393g1RQKg&s=19)
@@ -63,11 +58,11 @@ MC: Simon
 - [Bitcoin Mining Centralization in 2025](https://b10c.me/blog/015-bitcoin-mining-centralization/?mc_cid=6b5de413b4&mc_eid=a53847ab7c)
 - [Gemini Pays Mara for an OP_RETURN block](https://x.com/PortlandHODL/status/1925599602012536939)
 
-### Lightning Network
+### Réseau Lightning
 
 ---
 
-MC: Isaack
+Animation : Isaack
 
 - [An Open Protocol for Internet-Native Payments](https://www.x402.org/)
 - [Lightning HTTP 402 Protocol](https://docs.lightning.engineering/the-lightning-network/l402)
@@ -81,21 +76,20 @@ MC: Isaack
 - [CLN implements BIP 137](https://github.com/ElementsProject/lightning/pull/8226)
 - [LND Connectivity on Slow Pongs](https://github.com/lightningnetwork/lnd/pull/9801)
 
-### Ecash & Other Bitcoin Tech
+### eCash et autres technologies Bitcoin
 
 ---
 
-MC: okjodom
+Animation : okjodom
 
 - [Multinut Payments](https://x.com/callebtc/status/1919343859152138625)
 - [Pooled Mining with ecash Payouts](https://x.com/i/broadcasts/1djxXVvzMoLGZ?t=aD_qDDFYdYuklWKZeEBoCA&s=09)
 - [HashPool](https://x.com/CashuBTC/status/1922602715529515212?t=6T9jm8pl6wa1YBt8UShSEA&s=19)
 
-#### Upcoming Events & Announcements
-
+#### Événements et annonces à venir
 ---
 
-MC: Sharon
+Animation : Sharon
 
 - [Africa Bitcoin Day - May 31, 2025](https://x.com/AfroBitcoinOrg/status/1909528464102670437?t=Gfl82nTPFFFORUFlBO2fAw&s=19)
 - [Rust for Bitcoiners](https://x.com/btrust_builders/status/1925825203780649322?t=adWn63QITs6n6TxYpHPvpQ&s=19)

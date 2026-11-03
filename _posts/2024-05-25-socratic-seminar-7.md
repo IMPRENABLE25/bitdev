@@ -1,35 +1,29 @@
 ---
 layout: post
 type: socratic
-title: "Socratic Seminar #7"
+title: "Séminaire socratique #7"
 ---
 
-## Location
+## Lieu
+La rencontre aura lieu chez **Nairobi Garage**:
 
-The event will be hosted at **Nairobi Garage**:
+DELTA CORNER TOWERS | Delta Corner Rd, 7th | [Carte](https://maps.app.goo.gl/PXQ6JEsEUzf1AFj19)
 
-DELTA CORNER TOWERS | Delta Corner Rd, 7th | [Map](https://maps.app.goo.gl/PXQ6JEsEUzf1AFj19)
+## Annonces
+Rejoignez-nous pour notre [séminaire socratique Bitcoin](/about)! Un grand merci à notre sponsor [Btrust](http://btrust.tech/) pour le repas et les rafraîchissements.
 
-## Announcements
+## Rappels
+- Nous demandons de ne prendre ni photos ni vidéos pendant la rencontre
+- [Règle de Chatham House](https://www.chathamhouse.org/about-us/chatham-house-rule)
+- Merci de laisser la salle aussi propre que vous l’avez trouvée
+- Proposez des sujets pour le prochain séminaire socratique ! [Où trouver des sujets ?](/about/find-topics)
 
-Join us on our Seventh Bitcoin [Socratic Seminar](/about)! A special thank you to our
-sponsor [Btrust](http://btrust.tech/) for food and refreshments.
-
-## Reminders
-
-- We prefer no photos and no videos during the event
-- [Chatham House Rule](https://www.chathamhouse.org/about-us/chatham-house-rule)
-- Leave the meeting space as clean as you found it
-- Suggest topics for the next Socratic Seminar! [Where to find topics?](/about/find-topics)
-
-# Topics
-
-
+# Sujets
 ### Bitcoin
 
 ---
 
-MC: Brandon
+Animation : Brandon
 
 - [BIPs](https://github.com/bitcoin/bips)
 - [OP_CAT assigned BIP 347](https://github.com/bitcoin/bips/pull/1525)
@@ -44,11 +38,11 @@ MC: Brandon
    - [Brandon working on multi-signet support](https://github.com/bitcoin/bitcoin/pull/29838)
 
 
-### Mining
+### Minage
 
 ---
 
-MC: Simon
+Animation : Simon
 
 - [ViaBTC mines the halving block - 40.71 BTC block reward!](https://mempool.space/block/0000000000000000000320283a032748cef8227873ff4872689bf23f1cda83a5)
    - [Epic sat sold for 33.3 BTC](https://mempool.space/block/0000000000000000000320283a032748cef8227873ff4872689bf23f1cda83a5)
@@ -59,11 +53,11 @@ MC: Simon
 - [Braiins Pool Introducing Lightning Payouts](https://pool.braiins.com/en/news/introducing-lightning-payouts)
 - [Block Mining chip update](https://www.mining.build/latest-updates-3nm-system/)
 
-### Lightning Network
+### Réseau Lightning
 
 ---
 
-MC: Jodom
+Animation : Jodom
 
 - [Phoenixd released](https://www.nobsbitcoin.com/phoenixd-released/) | [Github Link](https://github.com/ACINQ/phoenixd)
    - [LNURL for self-sovereign phoenixd](https://primal.net/e/note1tujvj50j76rhwts5tf6ud2fxdg9n8gyw8z7tsnwp4fsweg4xzt5sa7590u)
@@ -75,11 +69,10 @@ MC: Jodom
    - [LLM Inference APIs with Lightning](https://www.sulu.sh/llm402)
 
 
-### Ecash
-
+### eCash
 ---
 
-MC: Jodom
+Animation : Jodom
 
 - [Fedimint - a community custody protocol using ecash](https://fedimint.org)
    - [Fedimint Wiki](https://github.com/fedimint/fedimint/wiki)
@@ -92,11 +85,10 @@ MC: Jodom
    - [Awesome Cashu](https://github.com/cashubtc/awesome-cashu)
 - [Bitcoin Mints](https://bitcoinmints.com)
 
-### Other Bitcoin Tech
-
+### Autres technologies Bitcoin
 ---
 
-MC: Charles
+Animation : Charles
 
 - [Taproot Assets Protocol](https://lightning.engineering/api-docs/api/taproot-assets/) | [Github Link](https://github.com/lightninglabs/taproot-assets)
    - [Taproot Assets on Mainnet!](https://x.com/roasbeef/status/1788624974728790471)
@@ -104,21 +96,19 @@ MC: Charles
 - [BitVM](https://bitvm.org) | [Github Link](https://github.com/BitVM/BitVM)
    - [BitVM 2: Opening Up The Playing Field](https://bitcoinmagazine.com/technical/bitvm-2-opening-up-the-playing-field)
 
-### Regulatory
-
+### Réglementation
 ---
 
-MC: Vlad
+Animation : Vlad
 
 - [Founders And CEO Of Cryptocurrency Mixing Service Arrested And Charged With Money Laundering And Unlicensed Money Transmitting Offenses](https://www.justice.gov/usao-sdny/pr/founders-and-ceo-cryptocurrency-mixing-service-arrested-and-charged-money-laundering)
 - [Phoenix Wallet exiting the US. Are Lightning nodes Money Service Providers?](https://x.com/acinq_co/status/1783878735168507972)
 - [Binance Founder Sentenced to 4 Months in Prison](https://www.nytimes.com/2024/04/30/technology/binance-founder-changpeng-zhao-sentenced.html)
 
-### Extras
-
+### Compléments
 ---
 
-MC: Isaack
+Animation : Isaack
 
 - [The Bitcoin Scholarship](https://bitcoinscholarship.xyz)
 - [Bitcoin Holiday Calendar](https://bitcoin.holiday)
@@ -132,11 +122,10 @@ MC: Isaack
 - [Splice Africa is Live!](https://x.com/SpliceAfrica/status/1793322564925768024)
 
 
-#### Upcoming Events
-
+#### Événements à venir
 ---
 
-MC: Sharon
+Animation : Sharon
 
 - [tbDEX Workshop Nairobi](https://www.tbdex.io/workshops/tbdex-nairobi) May. 28, 2024
 - [Lightning Development Bootcamp, Nairobi](https://x.com/FreeRoutingAf/status/1787828473798525075) Jun. 10-14, 2024

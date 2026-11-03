@@ -1,34 +1,30 @@
 ---
 layout: post
 type: socratic
-title: "Socratic Seminar #32"
+title: "Séminaire socratique #32"
 ---
 
-## Location
+## Lieu
+La rencontre aura lieu chez **NodeNBO**:
 
-The event will be hosted at **NodeNBO**:
+Gigiri, Nairobi | [nodenbo.com](https://nodenbo.com/) | [Carte](https://maps.app.goo.gl/rpxjHZBsvrjnaF8S8)
 
-Gigiri, Nairobi | [nodenbo.com](https://nodenbo.com/) | [Map](https://maps.app.goo.gl/rpxjHZBsvrjnaF8S8)
+## Annonces
+Rejoignez-nous pour notre [séminaire socratique Bitcoin](https://bitdevsnbo.org/about) `#32`.
+Un grand merci à notre sponsor [Btrust](http://btrust.tech/) pour le repas et les rafraîchissements.
 
-## Announcements
+## Rappels
+* Nous demandons de ne prendre ni photos ni vidéos pendant la rencontre
+* [Règle de Chatham House](https://www.chathamhouse.org/about-us/chatham-house-rule)
+* Merci de laisser la salle aussi propre que vous l’avez trouvée
+* Proposez des sujets pour le prochain séminaire socratique ! [Où trouver des sujets ?](https://bitdevsnbo.org/about/find-topics)
 
-Join us on our Bitcoin [Socratic Seminar](https://bitdevsnbo.org/about) `#32`.
-A special thank you to our sponsor [Btrust](http://btrust.tech/) for food and refreshments.
-
-## Reminders
-
-* We prefer no photos and no videos during the event
-* [Chatham House Rule](https://www.chathamhouse.org/about-us/chatham-house-rule)
-* Leave the meeting space as clean as you found it
-* Suggest topics for the next Socratic Seminar! [Where to find topics?](https://bitdevsnbo.org/about/find-topics)
-
-## Topics
-
+## Sujets
 ### Bitcoin
 
 ---
 
-MC: Brandon
+Animation : Brandon
 
 * [Bitcoin Core 32.0 release candidate](https://github.com/bitcoin/bitcoin/releases/tag/v32.0rc1) — rc1 tagged Sep 14, final release targeted for Oct 10; parallel input fetching during block validation (up to ~3x faster IBD in testing), and 29.x reaches end of maintenance
   + [`-walletnotify` command injection fix (#36048)](https://github.com/bitcoin/bitcoin/pull/36048)
@@ -41,7 +37,7 @@ MC: Brandon
   + [Unspendable keys in descriptors](https://delvingbitcoin.org/t/unspendable-keys-in-descriptors/304)
 * [Universal opt-in replay protection?](https://delvingbitcoin.org/t/universal-opt-in-replay-protection/2792) — revived after the BIP-110 fork-off
 
-MC: Frank
+Animation : Frank
 
 * [PQC output type discussion](https://delvingbitcoin.org/t/pqc-output-type-discussion/2749) — bundling cross-input signature aggregation with P2TRv2, wallet adoption, and hash-based signature fees
   + [SHRINCS hash-based signatures draft BIP](https://github.com/SHRINCS/shrincs-bip/blob/main/SHRINCS.md) — 48-byte pubkeys, 548-byte stateful signatures with a 5,777-byte stateless fallback
@@ -53,19 +49,19 @@ MC: Frank
   + [Depots: theft-proof, self-custodial Bitcoin for billions of users](https://delvingbitcoin.org/t/depots-theft-proof-self-custodial-bitcoin-for-billions-of-users/2892)
 * [A design bar for coercion-resistant custody](https://delvingbitcoin.org/t/a-design-bar-for-coercion-resistant-custody-and-where-duressfeatures-land-against-it/2832)
 
-### Mining
+### Minage
 
 ---
 
-MC: Kurt
+Animation : Kurt
 
 - [Building Bitshoka](https://github.com/kuenrg153/bitshoka)
 
-### Lightning Network
+### Réseau Lightning
 
 ---
 
-MC: Isaack
+Animation : Isaack
 
 * [Core Lightning 26.06.7 security release](https://github.com/ElementsProject/lightning/releases/tag/v26.06.7) — the patch promised at #31; source withheld 14 days, verifiable via reproducible builds
   + [Disclosure: crashing CLN with a flood of pings](https://delvingbitcoin.org/t/disclosure-crashing-cln-with-a-flood-of-pings/2846) — OOM without needing a channel, fixed with backpressure in `connectd`
@@ -79,10 +75,9 @@ MC: Isaack
 * [Towards a k-of-n Lightning node](https://delvingbitcoin.org/t/towards-a-k-of-n-lightning-network-node/2395)
 
 ### eCash
-
 ---
 
-MC: Martin
+Animation : Martin
 
 * [Fedimint v0.12.0 "Second Nature"](https://github.com/fedimint/fedimint/releases/tag/v0.12.0) — v2 modules (lnv2, mintv2, walletv2) default for new federations, Iroh 1.0, UniFFI bindings for Kotlin and Swift
   + [Fedimint v0.12.1 / v0.11.3](https://github.com/fedimint/fedimint/releases/tag/v0.12.1) — Lightning gateway LNv1 payment bug fix; gateway operators urged to upgrade
@@ -90,28 +85,25 @@ MC: Martin
   + [CDK v0.18.1](https://github.com/cashubtc/cdk/releases/tag/v0.18.1)
 * [Institutional-grade spending policies for statechains](https://delvingbitcoin.org/t/institutional-grade-spending-policies-for-statechains/2874)
 
-### Show & Tell
-
+### Démonstrations et présentations
 ---
 
-MC: Vlad & Collin
+Animation : Vlad & Collin
 
 - [Kesh Labs](https://kesh.ke/)
 
-MC: Isaack
+Animation : Isaack
 
 - [Payment Channels](https://www.npmjs.com/package/@minmoto/payment-channels)
 
-#### Upcoming Events & Announcements
-
+#### Événements et annonces à venir
 ---
 
-MC: Sharon
+Animation : Sharon
 
 * [Africa Bitcoin Conference 2026](https://afrobitcoin.org/)
 
 ---
 
-### Submit suggestions for next meeting!
-
-Issues on Github: https://github.com/BitDevsNBO/bitdevsnbo.org/issues
+### Proposez des sujets pour la prochaine rencontre !
+Sujets sur GitHub : https://github.com/BitDevsNBO/bitdevsnbo.org/issues

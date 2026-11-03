@@ -1,16 +1,21 @@
 ---
 layout: default
-title: Meetings
+title: Événements
 ---
 
 <div class="Home">
   <div class="Home-posts">
-    {% for post in site.posts %}
-      <div class="Home-posts-post">
-        <span class="Home-posts-post-date">{{ post.date | date_to_string }}</span>
-        <span class="Home-posts-post-arrow">&raquo;</span>
-        <a class="Home-posts-post-title" href="{{ post.url }}.html">{{ post.title }}</a>
-      </div>
-    {% endfor %}
+    {% assign lome_events = site.posts | where: "lome_event", true %}
+    {% if lome_events.size > 0 %}
+      {% for post in lome_events %}
+        <div class="Home-posts-post">
+          <span class="Home-posts-post-date">{{ post.date_display }}</span>
+          <span class="Home-posts-post-arrow">&raquo;</span>
+          <a class="Home-posts-post-title" href="{{ post.url }}.html">{{ post.title }}</a>
+        </div>
+      {% endfor %}
+    {% else %}
+      <p>Aucun événement à afficher pour le moment.</p>
+    {% endif %}
   </div>
 </div>

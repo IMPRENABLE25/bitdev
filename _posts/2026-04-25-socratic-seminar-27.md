@@ -1,34 +1,29 @@
 ---
 layout: post
 type: socratic
-title: "Socratic Seminar #27"
+title: "Séminaire socratique #27"
 ---
 
-## Location
+## Lieu
+La rencontre aura lieu chez **Waitabit Coffee Collective**:
 
-The event will be hosted at **Waitabit Coffee Collective**:
+[Carte](https://maps.app.goo.gl/4d7hEjZy7QHqe9U38)
 
-[Map](https://maps.app.goo.gl/4d7hEjZy7QHqe9U38)
+## Annonces
+Rejoignez-nous pour notre [séminaire socratique Bitcoin](/about) `#27`. Un grand merci à notre sponsor [Btrust](http://btrust.tech/) pour le repas et les rafraîchissements.
 
-## Announcements
+## Rappels
+- Nous demandons de ne prendre ni photos ni vidéos pendant la rencontre
+- [Règle de Chatham House](https://www.chathamhouse.org/about-us/chatham-house-rule)
+- Merci de laisser la salle aussi propre que vous l’avez trouvée
+- Proposez des sujets pour le prochain séminaire socratique ! [Où trouver des sujets ?](/about/find-topics)
 
-Join us on our Bitcoin [Socratic Seminar](/about) `#27`. A special thank you to our
-sponsor [Btrust](http://btrust.tech/) for food and refreshments.
-
-## Reminders
-
-- We prefer no photos and no videos during the event
-- [Chatham House Rule](https://www.chathamhouse.org/about-us/chatham-house-rule)
-- Leave the meeting space as clean as you found it
-- Suggest topics for the next Socratic Seminar! [Where to find topics?](/about/find-topics)
-
-## Topics
-
+## Sujets
 ## Bitcoin
 
 ---
 
-MC: Brandon
+Animation : Brandon
 
 - [Bitcoin Core 31.0rc4](https://bitcoincore.org/bin/bitcoin-core-31.0/test.rc4/) — fourth release candidate; community testing window open
 - [BIP 361: Post-Quantum Migration and Legacy Signature Sunset](https://groups.google.com/g/bitcoindev/c/nSAd0UmDSvc) — proposes sunsetting ECDSA/Schnorr key-path spending in a future soft fork; builds on BIP 360 P2MR
@@ -45,20 +40,20 @@ MC: Brandon
 - [Formal Verification of secp256k1 Modular Scalar Multiplication](https://groups.google.com/g/bitcoindev/c/l7AdGAKd1Oo) — machine-checked proof of correctness for secp256k1 scalar operations
 - [Coldcard 6.5.0](https://coldcard.com/docs/upgrade/#edge-version-650xqx-musig2-miniscript-and-taproot-support) — adds MuSig2, BIP322, miniscript, and taproot key-path features
 
-### Mining
+### Minage
 
 ---
 
-MC: Simon
+Animation : Simon
 
 - [Difficulty slides 2.43% to 135.59T on April 17](https://cryptonews.net/news/mining/32730269/) — hashprice up 13.65%; faster blocks point to upward adjustment by April 30
 - [Challenge: Covenants for Braidpool](https://delvingbitcoin.org/t/challenge-covenants-for-braidpool/1370) — Bob McElrath on which covenant proposal best enables decentralised share accounting for mining pools
 
-### Lightning Network
+### Réseau Lightning
 
 ---
 
-MC: Isaack
+Animation : Isaack
 
 - [Towards a K-of-N Lightning Network Node](https://delvingbitcoin.org/t/towards-a-k-of-n-lightning-network-node/2395) — ZmnSCPxj proposes nested MuSig2 to split a single LN node's keys across multiple machines
   - [Paper: Nested MuSig2 for threshold Lightning signing](https://eprint.iacr.org/2026/223)
@@ -70,22 +65,20 @@ MC: Isaack
 - [Onion Message Jamming in the Lightning Network](https://delvingbitcoin.org/t/onion-message-jamming-in-the-lightning-network/2414) — DoS vectors via onion messages and proposed mitigations
 - [Eclair #3269: Automatic idle channel liquidity reclamation](https://github.com/ACINQ/eclair/issues/3269)
 
-### Ecash
-
+### eCash
 ---
 
-MC: Okjodom
+Animation : Okjodom
 
 - [Compact Isogeny PQC: post-quantum replacement for HD wallet key-tweaking and silent payment scanning](https://delvingbitcoin.org/t/compact-isogeny-pqc-can-replace-hd-wallets-key-tweaking-silent-payments/2324) — has direct implications for how Cashu mints and Fedimint federations derive keys
 - [Cashu ecosystem — CDK, nutshell, eNuts, cashu-ts, cdk-go](https://github.com/cashubtc) — multiple projects pushed updates mid-April 2026; check individual release pages for details
 - [Frigate 1.4.0](https://damus.io/nevent1qqsrg3xsjwpt4d9g05rqy4vkzx5ysdffm40qtxntfr47y3annnfwpzgpp4mhxue69uhkummn9ekx7mqpz3mhxue69uhkummnw3ezummcw3ezuer9wcq3samnwvaz7tmjv4kxz7fwwdhx7un59eek7cmfv9kqz9rhwden5te0wfjkccte9ejxzmt4wvhxjmczyzl85553k5ew3wgc7twfs9yffz3n60sd5pmc346pdaemf363fuywvqcyqqqqqqgmgu9ev) — Nostr client adds silent payment address scanning with GPU acceleration
 - [Stealth Addresses Using Nostr](https://delvingbitcoin.org/t/stealth-addresses-using-nostr/1816) — proposal to use Nostr relays as the notification layer for silent payment coordination
 
-#### Upcoming Events & Announcements
-
+#### Événements et annonces à venir
 ---
 
-MC: Sharon
+Animation : Sharon
 
 - [Btrust Builders Pathways](https://www.btrust.tech/builders/apply)
 - [bitcoin++ open source edition](https://btcplusplus.dev/conf/nairobi)
@@ -94,6 +87,5 @@ MC: Sharon
 
 ---
 
-### Submit suggestions for next meeting!
-
-Issues on Github: https://github.com/BitDevsNBO/bitdevsnbo.org/issues
+### Proposez des sujets pour la prochaine rencontre !
+Sujets sur GitHub : https://github.com/BitDevsNBO/bitdevsnbo.org/issues

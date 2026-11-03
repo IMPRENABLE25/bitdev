@@ -1,34 +1,29 @@
 ---
 layout: post
 type: socratic
-title: "Socratic Seminar #17"
+title: "Séminaire socratique #17"
 ---
 
-## Location
+## Lieu
+La rencontre aura lieu chez **Jenga Leo**:
 
-The event will be hosted at **Jenga Leo**:
+`10e étage (salle Kilimanjaro)` WESTPARK TOWERS | Mpesi Ln, Nairobi | [Carte](https://maps.app.goo.gl/jA86RuyuBKcE4eA47)
 
-`T Floor (Kilimanjaro room)` WESTPARK TOWERS | Mpesi Ln, Nairobi | [Map](https://maps.app.goo.gl/jA86RuyuBKcE4eA47)
+## Annonces
+Rejoignez-nous pour notre [séminaire socratique Bitcoin](/about)! Un grand merci à notre sponsor [Btrust](http://btrust.tech/) pour le repas et les rafraîchissements.
 
-## Announcements
+## Rappels
+- Nous demandons de ne prendre ni photos ni vidéos pendant la rencontre
+- [Règle de Chatham House](https://www.chathamhouse.org/about-us/chatham-house-rule)
+- Merci de laisser la salle aussi propre que vous l’avez trouvée
+- Proposez des sujets pour le prochain séminaire socratique ! [Où trouver des sujets ?](/about/find-topics)
 
-Join us on our Seventeenth Bitcoin [Socratic Seminar](/about)! A special thank you to our
-sponsor [Btrust](http://btrust.tech/) for food and refreshments.
-
-## Reminders
-
-- We prefer no photos and no videos during the event
-- [Chatham House Rule](https://www.chathamhouse.org/about-us/chatham-house-rule)
-- Leave the meeting space as clean as you found it
-- Suggest topics for the next Socratic Seminar! [Where to find topics?](/about/find-topics)
-
-## Topics
-
+## Sujets
 ## Bitcoin
 
 ---
 
-MC: Brandon
+Animation : Brandon
 
 - [Bitcoin Core v29.0 release announcement](https://x.com/bitcoincoreorg/status/1912086604971192690)
   - [Bitcoin Core v29.0 release](https://bitcoincore.org/en/releases/29.0/)
@@ -45,11 +40,11 @@ MC: Brandon
   - [secp256k1lab](https://github.com/secp256k1lab/secp256k1lab)
 - [The 68-bit Bitcoin puzzle has been cracked](https://x.com/lianabitcoin/status/1909573460910649832)
 
-### Mining
+### Minage
 
 ---
 
-MC: Simon
+Animation : Simon
 
 - [Bitcoin Mining Centralization 2025](https://x.com/0xB10C/status/1912154961938383166)
 - [Ocean Mining hits back to back blocks](https://x.com/colbynoe/status/1906411953179754832?s=46)
@@ -59,22 +54,22 @@ MC: Simon
 - [Mujina Firmware, from mining application for the Ember One to full support for Stratum V2](https://x.com/256FOUNDATION/status/1908585611168276504?t=UBf4eBbjMiDqSTPAKC5PYg&s=19)
 - [SOLO BLOCK FOUND](https://x.com/solosatoshi/status/1910772449911730581?s=46)
 
-### Lightning Network
+### Réseau Lightning
 
 ---
 
-MC: Isaack
+Animation : Isaack
 
 - [Lightning Wallet URIs](https://x.com/tando_me/status/1907360725518991367?t=4Lbpju0b_1PzkV4vhjn8fA&s=19)
 - [LDK: Announcing Versioned Storage Services](https://open.substack.com/pub/spiralbtc/p/ldk-announcing-versioned-storage?utm_source=share&utm_medium=android&r=1icuw7)
 - [Lightning Loop now supports using your asset channels to perform Loop Out](https://x.com/alexbosworth/status/1908172717410406822?t=KX30-I9HZo9O-ZxgEbMQ_g&s=19)
 - [New Mempool Mystery (old dust, hashes, proto-inscriptions, and Russian history)](https://x.com/mononautical/status/1910703196672340007?t=BvXqr8Yaojn5WTn8ZwBohw&s=19)
 
-### Ecash & Other Bitcoin Tech
+### eCash et autres technologies Bitcoin
 
 ---
 
-MC: Jodom
+Animation : Jodom
 
 - Fedimint
   - [Fedimint v0.7.0 Released](https://x.com/fedimint/status/1912173279239897133)
@@ -91,11 +86,10 @@ MC: Jodom
   - [About Taproot Assets](https://docs.lightning.engineering/the-lightning-network/taproot-assets)
 
 
-### Financialization of Bitcoin
-
+### Financiarisation de Bitcoin
 ---
 
-MC: Jodom
+Animation : Jodom
 
 - [Twenty One Bitcoin](https://xxi.money/)
   - [announcement](https://x.com/jackmallers/status/1915399337913290867)
@@ -103,11 +97,10 @@ MC: Jodom
   - [Bitcoin for Corporations](https://www.strategysoftware.com/world25/bitcoin-for-corporations)
 - What else is happening?
 
-#### Upcoming Events & Announcements
-
+#### Événements et annonces à venir
 ---
 
-MC: Sharon
+Animation : Sharon
 
 - [Campus Tech Events with Bitnob](https://x.com/Bitnob_official/status/1909973572363108731?t=QLEr4BKukf7SheC25_28vQ&s=19)
 - [Treasury seeks identity of digital asset owners in new Bill](https://x.com/bd_africa/status/1909504154604536072?s=46)
