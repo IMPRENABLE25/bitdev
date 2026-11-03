@@ -8,6 +8,9 @@ $primary-color-dark: #ff7f00;
 
 
 html, body {
+  color-scheme: dark;
+  background-color: $background-dark;
+  color: $font-dark;
   font-family: $body-font;
   font-size: 16px;
   line-height: 1.5;
@@ -29,8 +32,8 @@ html, body {
 
 
 body {
-  background-color: $background-light;
-  color: $font-light;
+  background-color: $background-dark;
+  color: $font-dark;
   min-height: 100vh;
 }
 
@@ -41,19 +44,6 @@ a {
 
   &:hover {
     color: lighten($primary-color-light, 10%);
-  }
-}
-
-body.dark-mode {
-  background-color: $background-dark;
-  color: $font-dark;
-}
-
-body.dark-mode a {
-  color: $primary-color-dark;
-
-  &:hover {
-    color: lighten($primary-color-dark, 10%);
   }
 }
 
